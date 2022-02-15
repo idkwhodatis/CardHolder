@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Card Holder</string>
+    <string name="no_card_added">No Card Added</string>
+    <string-array name="color_array">
+        <item>White</item>
+        <item>Gray</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Pink</item>
+        <item>Green</item>
+        <item>Cyan</item>
+    </string-array>
+</resources>
